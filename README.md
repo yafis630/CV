@@ -1,2 +1,2 @@
 # CV
-[Link to Google](https://www.google.com)
+![alt text](http://github.com/yafis630/CV/index.html)
