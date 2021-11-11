@@ -1,2 +1,2 @@
 # CV
-[Display CV](https://github.com/yafis630/CV/blob/main/index.html)
+[Display CV](https://www.linkedin.com/in/mohd-yafis-khan-0679b1212/)
